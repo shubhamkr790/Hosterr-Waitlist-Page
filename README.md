@@ -37,8 +37,12 @@ To run the Hosterr Waitlist Page locally, follow these steps:
 
 ## Usage
 The Hosterr Waitlist Page can be used as a standalone landing page for gathering user information and building an email list. Customize the content, styling, and functionality according to your requirements.
-
-
+## Mobile View
+![image](https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Mobile%20View.png)
+## Tablet View
+![image](https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Tablet%20View.png)
+## Desktop View
+![image](https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Desktop%20View.png)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
