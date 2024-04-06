@@ -40,9 +40,9 @@ The Hosterr Waitlist Page can be used as a standalone landing page for gathering
 ## Mobile View
 <img src="https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Mobile%20View.png" alt="image" height="400">
 ## Tablet View
-![image](https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Tablet%20View.png)
+<img src="https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Tablet%20View.png" alt="tab" height="400">
 ## Desktop View
-![image](https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Desktop%20View.png)
+<img src="https://github.com/shubhamkr790/Hosterr-Waitlist-Page/blob/main/Design/Landing%20Page%20-%20Desktop%20View.png" alt="desktop" height="400">
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
